@@ -5,7 +5,7 @@
 
 if (!class_exists('ZipArchive')) { throw new Exception('ZipArchive not found'); }
 
-Class XLSXWriter
+class XLSXWriter
 {
 	//------------------------------------------------------------------
 	protected $author ='Doc Author';
