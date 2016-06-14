@@ -1,5 +1,5 @@
 {
-    "name": "iblessedi/PHP_XLSXWriter_plus",
+    "name": "iblessedi/php_xlsx-writer_plus",
     "description": "Fork of mk-j/php_xlsxwriter",
     "require": {
         "php": "^5.3.3 || ^7.0"
